@@ -2,8 +2,10 @@
 \cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
 {\colortbl;\red255\green255\blue255;}
 {\*\expandedcolortbl;;}
-\margl1440\margr1440\vieww11520\viewh8400\viewkind0
+\margl1440\margr1440\vieww28600\viewh15280\viewkind0
 \deftab560
 \pard\pardeftab560\slleading20\partightenfactor0
 
-\f0\fs26 \cf0 26200406}
+\f0\fs26 \cf0 print("Hola esta es mi Tarea 2 Jejeje\'94)\
+\
+}
