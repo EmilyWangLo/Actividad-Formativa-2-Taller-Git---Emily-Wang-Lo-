@@ -1,14 +1,6 @@
-{\rtf1\ansi\ansicpg1252\cocoartf2759
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
-{\colortbl;\red255\green255\blue255;}
-{\*\expandedcolortbl;;}
-\margl1440\margr1440\vieww11520\viewh8400\viewkind0
-\deftab560
-\pard\pardeftab560\slleading20\partightenfactor0
+| Nombre Integrante | Usuario de GitHub | Correo Electrónico |
+| ----------------- | ----------------- | ------------------ |
+| Emily Wang Lo     | EmilyWangLo       | ewangl@estudiante.uc.cl |
 
-\f0\fs26 \cf0 | Nombre Integrante | Usuario de GitHub | Correo Electr\'f3nico          |\
-| \'97\'97\'97\'97\'97\'97\'97\'97- | \'97\'97\'97\'97\'97\'97\'97\'97-| \'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97-|\
-| Emily Wang Lo       | EmilyWangLo        | ewangl@estudiante.uc.cl  |\
-\
-### Aportes: \
-* Emily Wang: Creaci\'f3n del repositorio, configuraci\'f3n de .gitignore y estructura inicial.}
+### Aportes: 
+* Emily Wang: Creación del repositorio, configuración de .gitignore y estructura inicial.
